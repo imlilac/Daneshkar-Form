@@ -21,9 +21,11 @@ This project is a simple React-based registration form that includes form valida
 - **Real-Time Error Messages**: Shows appropriate error messages if validation fails for any field.
 ## Screenshot
 
-![Screenshot](https://github.com/imlilac/counter-react/blob/main/public/screenshots/Screenshot%202024-08-11%20183107.png)
+![Screenshot](https://github.com/imlilac/Daneshkar-Form/blob/main/public/form-screenshot%20(3).png)
 
-![Screenshot](https://github.com/imlilac/counter-react/blob/main/public/screenshots/Screenshot%202024-08-11%20194120.png)
+![Screenshot](https://github.com/imlilac/Daneshkar-Form/blob/main/public/form-screenshot%20(1).png)
+
+![Screenshot](https://github.com/imlilac/Daneshkar-Form/blob/main/public/form-screenshot%20(2).png)
 
 ## Built With
 
